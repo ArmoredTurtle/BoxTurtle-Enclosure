@@ -1,3 +1,5 @@
+Sourcing links are breadcrumbs only to help get you in the right direction.  Verify the component you are ordering is correct for the enclosure before purchasing.
+
 | Item | Quantity | Note | Source |
 | ---- | -------- | ---- | ------- |
 | 360mm length 2020 aluminum extrusion | 7 | drill and tap per manual | [Misumi](https://us.misumi-ec.com/vona2/detail/110302683920/?HissuCode=HFSFB5-2020-360)
