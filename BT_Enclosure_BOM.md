@@ -14,7 +14,7 @@ Sourcing links are breadcrumbs only to help get you in the right direction.  Ver
 | M3 Threaded Heatset insert | 31 | 'VORON spec' - M3, 5mm diameter, 4mm length
 | M3 2020 roll-in nut | 24 |
 | M3x8 BHCS | 46 |
-| M3x12 BHCS | 10 |
+| M3x12 BHCS | 11 |
 | M3x18 BHCS | 10 |
 | M3x50 SHCS | 1 |
 | Polydryer dock | 1-3 | |
