@@ -12,9 +12,10 @@ Sourcing links are breadcrumbs only to help get you in the right direction.  Ver
 | 3mm foam tape | ~2.5M | 
 | M5x16 BHCS | 14 |
 | M3 Threaded Heatset insert | 31 | 'VORON spec' - M3, 5mm diameter, 4mm length
-| M3 2020 roll-in nut | 24 |
+| M3 2020 roll-in nut | 8 |
+| M3 Hammerhead T-Nut | 20 |
 | M3x8 BHCS | 46 |
-| M3x12 BHCS | 11 |
-| M3x18 BHCS | 10 |
+| M3x12 BHCS | 16 |
+| M3x18 BHCS | 14 |
 | M3x50 SHCS | 1 |
 | Polydryer dock | 1-3 | |
