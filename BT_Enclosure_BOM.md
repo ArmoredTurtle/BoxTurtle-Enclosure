@@ -15,7 +15,7 @@ Sourcing links are breadcrumbs only to help get you in the right direction.  Ver
 | M3 2020 roll-in nut | 8 |
 | M3 Hammerhead T-Nut | 20 |
 | M3x8 BHCS | 46 |
-| M3x12 BHCS | 16 |
-| M3x18 BHCS | 14 |
+| M3x12 BHCS | 20 |
+| M3x18 BHCS | 18 |
 | M3x50 SHCS | 1 |
 | Polydryer dock | 1-3 | |
