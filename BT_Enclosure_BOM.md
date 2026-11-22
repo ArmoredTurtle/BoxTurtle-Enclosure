@@ -2,7 +2,7 @@ Sourcing links are breadcrumbs only to help get you in the right direction.  Ver
 
 | Item | Quantity | Note |
 | ---- | -------- | ---- |
-| 360mm length 2020 aluminum extrusion | 7 | drill and tap per manual |
+| 360mm length 2020 aluminum extrusion | 8 | drill and tap per manual |
 | 280mm length 2020 aluminum extrusion | 2 | drill and tap per manual | 
 | 220mm length 2020 aluminum extrusion | 2 | drill and tap per manual |
 | 3mm thick panels | 2x side, front/rear, top [Panel DXFs](https://github.com/ArmoredTurtle/BoxTurtle-Enclosure/tree/main/Panels)
